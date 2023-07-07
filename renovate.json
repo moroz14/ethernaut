@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "github>OpenZeppelin/configs",
+    "group:monorepos"
+  ]
+}
