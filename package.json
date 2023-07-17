@@ -3,3 +3,4 @@
 "workspaces": {
  "packages": [
       "contracts",
+  "client",
