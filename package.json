@@ -4,3 +4,5 @@
  "packages": [
       "contracts",
   "client",
+"deps/hljs"
+    ]
