@@ -17,3 +17,5 @@
   },
   "scripts": {
     "test": "cd contracts && hardhat test",
+ "compile:contracts": "cd contracts && hardhat clean && hardhat compile",
+    "deploy:contracts": "yarn compile:contracts && node --experimental-json-modules client/scripts/deploy_contracts.mjs",
