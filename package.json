@@ -28,3 +28,5 @@
     "leaderboard:oldCrawler": "node client/leaderboard/scripts/crawlers/crawlHistoricalData/index.cjs",
   "leaderboard:newCrawler": "node client/leaderboard/scripts/crawlers/crawlNewData/index.cjs",
 "leaderboard:triggerNextCrawl": "node client/leaderboard/scripts/actuate/index.cjs"
+}
+}
