@@ -17,3 +17,4 @@
   },
   "scripts": {
     "test": "cd contracts && hardhat test",
+  "compile:contracts": "cd contracts && hardhat clean && hardhat compile",
